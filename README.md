@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mojosolodev
-- 👀 I’m interested in Game Delvelopment,Mobile and Desktop App Development.
+- 👀 I’m interested in Game Development in Unity,Mobile and Desktop App Development.
 - 🌱 I’m currently learning c# .Net framework,java,html and soon flutter.
 - 💞️ I’m looking to collaborate on projects I will surely give more information on later.
 - 📫 How to reach me josiasmoffo@gmail.com
